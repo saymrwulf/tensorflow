@@ -10,3 +10,4 @@
 2014-03-26T20:25:00 - Refactor for clarity, might break a few tests though (tensorflow)
 2014-04-29T06:42:00 - Refactor for clarity, might break a few tests though (tensorflow)
 2014-04-29T20:31:00 - Late-night bugfix on financial RL environment (tensorflow)
+2014-04-29T22:41:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
