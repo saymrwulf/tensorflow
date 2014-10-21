@@ -21,3 +21,4 @@
 2014-10-21T06:32:00 - Implementing approach from a new paper read last night (tensorflow)
 2014-10-21T18:27:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
 2014-10-21T18:39:00 - Minor doc updates: linking to article on quantization (tensorflow)
+2014-10-21T22:50:00 - Refactor for clarity, might break a few tests though (tensorflow)
