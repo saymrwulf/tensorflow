@@ -25,3 +25,4 @@
 2014-12-05T05:20:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
 2014-12-08T19:33:00 - Late-night bugfix on financial RL environment (tensorflow)
 2014-12-08T20:07:00 - Minor doc updates: linking to article on quantization (tensorflow)
+2014-12-08T06:38:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
