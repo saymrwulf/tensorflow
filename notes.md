@@ -27,3 +27,4 @@
 2014-12-08T20:07:00 - Minor doc updates: linking to article on quantization (tensorflow)
 2014-12-08T06:38:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
 2014-12-12T23:18:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
+2014-12-12T02:12:00 - Implementing approach from a new paper read last night (tensorflow)
