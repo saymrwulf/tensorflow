@@ -28,3 +28,4 @@
 2014-12-08T06:38:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
 2014-12-12T23:18:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
 2014-12-12T02:12:00 - Implementing approach from a new paper read last night (tensorflow)
+2014-12-12T03:19:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
