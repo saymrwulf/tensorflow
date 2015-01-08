@@ -29,3 +29,4 @@
 2014-12-12T23:18:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
 2014-12-12T02:12:00 - Implementing approach from a new paper read last night (tensorflow)
 2014-12-12T03:19:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
+2015-01-08T07:39:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
