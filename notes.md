@@ -33,3 +33,4 @@
 2015-01-08T19:48:00 - Minor doc updates: linking to article on quantization (tensorflow)
 2015-02-22T21:48:00 - Implementing approach from a new paper read last night (tensorflow)
 2015-03-06T22:04:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
+2015-03-06T18:42:00 - Minor doc updates: linking to article on quantization (tensorflow)
