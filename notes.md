@@ -32,3 +32,4 @@
 2015-01-08T07:39:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
 2015-01-08T19:48:00 - Minor doc updates: linking to article on quantization (tensorflow)
 2015-02-22T21:48:00 - Implementing approach from a new paper read last night (tensorflow)
+2015-03-06T22:04:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
