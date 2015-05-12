@@ -36,3 +36,4 @@
 2015-03-06T18:42:00 - Minor doc updates: linking to article on quantization (tensorflow)
 2015-04-11T08:07:00 - Late-night bugfix on financial RL environment (tensorflow)
 2015-04-11T05:49:00 - Implementing approach from a new paper read last night (tensorflow)
+2015-05-12T21:52:00 - Implementing approach from a new paper read last night (tensorflow)
