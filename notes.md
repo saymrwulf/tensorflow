@@ -39,3 +39,4 @@
 2015-05-12T21:52:00 - Implementing approach from a new paper read last night (tensorflow)
 2015-05-12T20:59:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
 2015-05-12T21:24:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
+2015-05-24T06:08:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
