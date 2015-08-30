@@ -43,3 +43,4 @@
 2015-07-10T20:42:00 - Refactor for clarity, might break a few tests though (tensorflow)
 2015-07-10T04:37:00 - Implementing approach from a new paper read last night (tensorflow)
 2015-07-10T01:28:00 - Implementing approach from a new paper read last night (tensorflow)
+2015-08-30T04:22:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
