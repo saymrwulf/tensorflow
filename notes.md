@@ -49,3 +49,4 @@
 2016-03-16T02:17:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
 2016-03-16T17:23:00 - Late-night bugfix on financial RL environment (tensorflow)
 2016-03-23T05:19:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
+2016-03-23T22:12:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
