@@ -54,3 +54,4 @@
 2016-06-19T07:44:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
 2016-06-19T22:35:00 - Refactor for clarity, might break a few tests though (tensorflow)
 2016-06-19T00:56:00 - Implementing approach from a new paper read last night (tensorflow)
+2016-07-09T06:16:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
