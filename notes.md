@@ -60,3 +60,4 @@
 2016-07-09T00:59:00 - Late-night bugfix on financial RL environment (tensorflow)
 2016-08-11T21:49:00 - Implementing approach from a new paper read last night (tensorflow)
 2016-08-11T23:59:00 - Refactor for clarity, might break a few tests though (tensorflow)
+2016-08-11T08:42:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
