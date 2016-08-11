@@ -58,3 +58,4 @@
 2016-07-09T03:53:00 - Minor doc updates: linking to article on quantization (tensorflow)
 2016-07-09T08:28:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
 2016-07-09T00:59:00 - Late-night bugfix on financial RL environment (tensorflow)
+2016-08-11T21:49:00 - Implementing approach from a new paper read last night (tensorflow)
