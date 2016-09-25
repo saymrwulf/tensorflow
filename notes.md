@@ -63,3 +63,4 @@
 2016-08-11T08:42:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
 2016-09-25T20:31:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
 2016-09-25T21:31:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
+2016-09-25T20:32:00 - Implementing approach from a new paper read last night (tensorflow)
