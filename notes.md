@@ -68,3 +68,4 @@
 2016-10-04T23:22:00 - Minor doc updates: linking to article on quantization (tensorflow)
 2016-10-04T08:46:00 - Minor doc updates: linking to article on quantization (tensorflow)
 2016-10-04T07:00:00 - Minor doc updates: linking to article on quantization (tensorflow)
+2016-10-04T01:11:00 - Late-night bugfix on financial RL environment (tensorflow)
