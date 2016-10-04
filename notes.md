@@ -67,3 +67,4 @@
 2016-09-25T07:48:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
 2016-10-04T23:22:00 - Minor doc updates: linking to article on quantization (tensorflow)
 2016-10-04T08:46:00 - Minor doc updates: linking to article on quantization (tensorflow)
+2016-10-04T07:00:00 - Minor doc updates: linking to article on quantization (tensorflow)
