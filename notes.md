@@ -70,3 +70,4 @@
 2016-10-04T07:00:00 - Minor doc updates: linking to article on quantization (tensorflow)
 2016-10-04T01:11:00 - Late-night bugfix on financial RL environment (tensorflow)
 2016-11-11T05:44:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
+2016-11-11T08:43:00 - Late-night bugfix on financial RL environment (tensorflow)
