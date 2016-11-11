@@ -71,3 +71,4 @@
 2016-10-04T01:11:00 - Late-night bugfix on financial RL environment (tensorflow)
 2016-11-11T05:44:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
 2016-11-11T08:43:00 - Late-night bugfix on financial RL environment (tensorflow)
+2016-11-11T02:10:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
