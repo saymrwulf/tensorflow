@@ -72,3 +72,4 @@
 2016-11-11T05:44:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
 2016-11-11T08:43:00 - Late-night bugfix on financial RL environment (tensorflow)
 2016-11-11T02:10:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
+2016-11-11T03:24:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
