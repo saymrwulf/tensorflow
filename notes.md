@@ -74,3 +74,4 @@
 2016-11-11T02:10:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
 2016-11-11T03:24:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
 2016-11-16T02:13:00 - Implementing approach from a new paper read last night (tensorflow)
+2016-11-16T04:49:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
