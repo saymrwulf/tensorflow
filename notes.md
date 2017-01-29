@@ -78,3 +78,4 @@
 2016-11-16T00:37:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
 2016-11-16T08:34:00 - Implementing approach from a new paper read last night (tensorflow)
 2016-12-01T08:39:00 - Late-night bugfix on financial RL environment (tensorflow)
+2017-01-29T03:52:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
