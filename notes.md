@@ -81,3 +81,4 @@
 2017-01-29T03:52:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
 2017-03-22T03:09:00 - Implementing approach from a new paper read last night (tensorflow)
 2017-03-22T08:44:00 - Refactor for clarity, might break a few tests though (tensorflow)
+2017-03-22T07:07:00 - Refactor for clarity, might break a few tests though (tensorflow)
