@@ -88,3 +88,4 @@
 2017-06-30T19:30:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
 2017-08-06T07:50:00 - Implementing approach from a new paper read last night (tensorflow)
 2017-08-06T03:02:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
+2017-08-06T23:35:00 - Refactor for clarity, might break a few tests though (tensorflow)
