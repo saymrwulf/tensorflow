@@ -92,3 +92,4 @@
 2017-09-27T22:32:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
 2017-11-06T08:09:00 - Implementing approach from a new paper read last night (tensorflow)
 2017-11-06T23:52:00 - Late-night bugfix on financial RL environment (tensorflow)
+2017-11-06T07:08:00 - Implementing approach from a new paper read last night (tensorflow)
