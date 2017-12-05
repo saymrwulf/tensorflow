@@ -96,3 +96,4 @@
 2017-11-14T20:47:00 - Refactor for clarity, might break a few tests though (tensorflow)
 2017-11-14T02:08:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
 2017-11-28T08:00:00 - Implementing approach from a new paper read last night (tensorflow)
+2017-12-05T18:00:00 - Late-night bugfix on financial RL environment (tensorflow)
