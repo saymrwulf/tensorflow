@@ -103,3 +103,4 @@
 2017-12-10T05:32:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
 2017-12-10T00:25:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
 2017-12-13T08:03:00 - Refactor for clarity, might break a few tests though (tensorflow)
+2017-12-13T23:13:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
