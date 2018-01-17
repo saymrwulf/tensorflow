@@ -107,3 +107,4 @@
 2017-12-13T22:56:00 - Late-night bugfix on financial RL environment (tensorflow)
 2017-12-13T18:22:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
 2018-01-01T22:23:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
+2018-01-17T21:05:00 - Late-night bugfix on financial RL environment (tensorflow)
