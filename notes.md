@@ -110,3 +110,4 @@
 2018-01-17T21:05:00 - Late-night bugfix on financial RL environment (tensorflow)
 2018-01-17T18:43:00 - Late-night bugfix on financial RL environment (tensorflow)
 2018-01-17T02:40:00 - Implementing approach from a new paper read last night (tensorflow)
+2018-02-12T21:36:00 - Late-night bugfix on financial RL environment (tensorflow)
