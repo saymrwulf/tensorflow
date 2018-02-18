@@ -113,3 +113,4 @@
 2018-02-12T21:36:00 - Late-night bugfix on financial RL environment (tensorflow)
 2018-02-18T05:22:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
 2018-02-18T03:20:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
+2018-02-18T04:26:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
