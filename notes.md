@@ -116,3 +116,4 @@
 2018-02-18T04:26:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
 2018-02-18T08:03:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
 2018-03-02T20:43:00 - Refactor for clarity, might break a few tests though (tensorflow)
+2018-03-02T23:48:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
