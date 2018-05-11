@@ -130,3 +130,4 @@
 2018-04-23T17:59:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
 2018-04-23T22:08:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
 2018-05-11T02:07:00 - Late-night bugfix on financial RL environment (tensorflow)
+2018-05-11T02:50:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
