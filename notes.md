@@ -133,3 +133,4 @@
 2018-05-11T02:50:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
 2018-05-11T07:56:00 - Late-night bugfix on financial RL environment (tensorflow)
 2018-07-06T20:08:00 - Minor doc updates: linking to article on quantization (tensorflow)
+2018-07-24T06:34:00 - Late-night bugfix on financial RL environment (tensorflow)
