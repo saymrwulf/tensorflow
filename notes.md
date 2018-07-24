@@ -135,3 +135,4 @@
 2018-07-06T20:08:00 - Minor doc updates: linking to article on quantization (tensorflow)
 2018-07-24T06:34:00 - Late-night bugfix on financial RL environment (tensorflow)
 2018-07-24T21:30:00 - Late-night bugfix on financial RL environment (tensorflow)
+2018-07-24T21:09:00 - Implementing approach from a new paper read last night (tensorflow)
