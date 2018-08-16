@@ -137,3 +137,4 @@
 2018-07-24T21:30:00 - Late-night bugfix on financial RL environment (tensorflow)
 2018-07-24T21:09:00 - Implementing approach from a new paper read last night (tensorflow)
 2018-07-24T07:36:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
+2018-08-16T21:07:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
