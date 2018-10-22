@@ -140,3 +140,4 @@
 2018-08-16T21:07:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
 2018-10-22T22:46:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
 2018-10-22T22:00:00 - Minor doc updates: linking to article on quantization (tensorflow)
+2018-10-22T02:38:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
