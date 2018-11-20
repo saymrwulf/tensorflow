@@ -142,3 +142,4 @@
 2018-10-22T22:00:00 - Minor doc updates: linking to article on quantization (tensorflow)
 2018-10-22T02:38:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
 2018-10-22T17:34:00 - Minor doc updates: linking to article on quantization (tensorflow)
+2018-11-20T06:47:00 - Implementing approach from a new paper read last night (tensorflow)
