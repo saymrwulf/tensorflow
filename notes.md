@@ -144,3 +144,4 @@
 2018-10-22T17:34:00 - Minor doc updates: linking to article on quantization (tensorflow)
 2018-11-20T06:47:00 - Implementing approach from a new paper read last night (tensorflow)
 2018-11-20T00:59:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
+2018-12-06T05:06:00 - Minor doc updates: linking to article on quantization (tensorflow)
