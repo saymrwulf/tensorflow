@@ -149,3 +149,4 @@
 2018-12-06T01:29:00 - Minor doc updates: linking to article on quantization (tensorflow)
 2019-02-16T19:30:00 - Late-night bugfix on financial RL environment (tensorflow)
 2019-02-16T05:03:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
+2019-02-16T05:49:00 - Refactor for clarity, might break a few tests though (tensorflow)
