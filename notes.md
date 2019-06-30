@@ -158,3 +158,4 @@
 2019-05-17T01:15:00 - Late-night bugfix on financial RL environment (tensorflow)
 2019-06-30T02:06:00 - Late-night bugfix on financial RL environment (tensorflow)
 2019-06-30T18:06:00 - Implementing approach from a new paper read last night (tensorflow)
+2019-06-30T03:21:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
