@@ -161,3 +161,4 @@
 2019-06-30T03:21:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
 2019-06-30T03:04:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
 2019-07-12T04:33:00 - Implementing approach from a new paper read last night (tensorflow)
+2019-07-12T00:53:00 - Implementing approach from a new paper read last night (tensorflow)
