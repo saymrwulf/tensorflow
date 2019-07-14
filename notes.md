@@ -164,3 +164,4 @@
 2019-07-12T00:53:00 - Implementing approach from a new paper read last night (tensorflow)
 2019-07-12T23:22:00 - Minor doc updates: linking to article on quantization (tensorflow)
 2019-07-12T04:26:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
+2019-07-14T05:51:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
