@@ -173,3 +173,4 @@
 2020-01-18T06:00:00 - Late-night bugfix on financial RL environment (tensorflow)
 2020-01-18T03:15:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
 2020-01-19T19:33:00 - Minor doc updates: linking to article on quantization (tensorflow)
+2020-01-19T17:40:00 - Minor doc updates: linking to article on quantization (tensorflow)
