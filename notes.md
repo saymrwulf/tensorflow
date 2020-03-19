@@ -177,3 +177,4 @@
 2020-01-19T04:16:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
 2020-01-19T21:21:00 - Implementing approach from a new paper read last night (tensorflow)
 2020-01-27T07:05:00 - Late-night bugfix on financial RL environment (tensorflow)
+2020-03-19T19:13:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
