@@ -185,3 +185,4 @@
 2020-06-08T23:46:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
 2020-06-08T02:18:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
 2020-06-08T21:20:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
+2020-06-08T20:38:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
