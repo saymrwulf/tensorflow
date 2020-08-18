@@ -190,3 +190,4 @@
 2020-07-10T02:20:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
 2020-07-10T22:18:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
 2020-07-24T06:19:00 - Late-night bugfix on financial RL environment (tensorflow)
+2020-08-18T06:11:00 - Minor doc updates: linking to article on quantization (tensorflow)
