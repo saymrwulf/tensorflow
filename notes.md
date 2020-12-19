@@ -197,3 +197,4 @@
 2020-12-13T05:02:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
 2020-12-13T23:38:00 - Late-night bugfix on financial RL environment (tensorflow)
 2020-12-19T03:39:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
+2020-12-19T21:51:00 - Implementing approach from a new paper read last night (tensorflow)
