@@ -213,3 +213,4 @@
 2021-06-03T21:44:00 - Minor doc updates: linking to article on quantization (tensorflow)
 2021-06-03T04:47:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
 2021-06-15T22:51:00 - Implementing approach from a new paper read last night (tensorflow)
+2021-06-29T18:21:00 - Late-night bugfix on financial RL environment (tensorflow)
