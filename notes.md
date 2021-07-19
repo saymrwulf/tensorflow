@@ -216,3 +216,4 @@
 2021-06-29T18:21:00 - Late-night bugfix on financial RL environment (tensorflow)
 2021-07-13T08:57:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
 2021-07-13T01:25:00 - Minor doc updates: linking to article on quantization (tensorflow)
+2021-07-19T03:42:00 - Implementing approach from a new paper read last night (tensorflow)
