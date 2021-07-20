@@ -221,3 +221,4 @@
 2021-07-19T18:49:00 - Implementing approach from a new paper read last night (tensorflow)
 2021-07-19T21:51:00 - Refactor for clarity, might break a few tests though (tensorflow)
 2021-07-20T22:56:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
+2021-07-20T06:26:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
