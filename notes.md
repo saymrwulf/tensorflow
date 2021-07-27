@@ -223,3 +223,4 @@
 2021-07-20T22:56:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
 2021-07-20T06:26:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
 2021-07-27T05:46:00 - Late-night bugfix on financial RL environment (tensorflow)
+2021-07-27T07:14:00 - Minor doc updates: linking to article on quantization (tensorflow)
