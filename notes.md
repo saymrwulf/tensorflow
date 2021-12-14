@@ -229,3 +229,4 @@
 2021-07-30T04:08:00 - Late-night bugfix on financial RL environment (tensorflow)
 2021-07-30T08:06:00 - Refactor for clarity, might break a few tests though (tensorflow)
 2021-07-30T17:09:00 - Late-night bugfix on financial RL environment (tensorflow)
+2021-12-14T04:46:00 - Late-night bugfix on financial RL environment (tensorflow)
