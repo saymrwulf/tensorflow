@@ -232,3 +232,4 @@
 2021-12-14T04:46:00 - Late-night bugfix on financial RL environment (tensorflow)
 2021-12-14T07:35:00 - Refactor for clarity, might break a few tests though (tensorflow)
 2021-12-23T23:36:00 - Implementing approach from a new paper read last night (tensorflow)
+2021-12-23T17:12:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
