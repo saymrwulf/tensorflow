@@ -234,3 +234,4 @@
 2021-12-23T23:36:00 - Implementing approach from a new paper read last night (tensorflow)
 2021-12-23T17:12:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
 2022-01-14T05:10:00 - Refactor for clarity, might break a few tests though (tensorflow)
+2022-01-14T22:25:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
