@@ -245,3 +245,4 @@
 2022-03-28T20:45:00 - Late-night bugfix on financial RL environment (tensorflow)
 2022-04-14T04:24:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
 2022-04-14T01:02:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
+2022-04-14T05:23:00 - Refactor for clarity, might break a few tests though (tensorflow)
