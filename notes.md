@@ -246,3 +246,4 @@
 2022-04-14T04:24:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
 2022-04-14T01:02:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
 2022-04-14T05:23:00 - Refactor for clarity, might break a few tests though (tensorflow)
+2022-06-03T23:34:00 - Minor doc updates: linking to article on quantization (tensorflow)
