@@ -268,3 +268,4 @@
 2023-03-05T18:23:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
 2023-04-19T03:54:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
 2023-04-19T00:11:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
+2023-04-19T06:13:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
