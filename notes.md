@@ -269,3 +269,4 @@
 2023-04-19T03:54:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
 2023-04-19T00:11:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
 2023-04-19T06:13:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
+2023-08-17T04:37:00 - Implementing approach from a new paper read last night (tensorflow)
