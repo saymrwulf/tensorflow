@@ -272,3 +272,4 @@
 2023-08-17T04:37:00 - Implementing approach from a new paper read last night (tensorflow)
 2023-08-17T02:55:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
 2023-08-17T08:26:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
+2023-09-25T21:21:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
