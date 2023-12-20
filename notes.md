@@ -279,3 +279,4 @@
 2023-12-20T02:13:00 - Late-night bugfix on financial RL environment (tensorflow)
 2023-12-20T20:28:00 - Refactor for clarity, might break a few tests though (tensorflow)
 2023-12-20T02:25:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
+2023-12-20T20:56:00 - Minor doc updates: linking to article on quantization (tensorflow)
