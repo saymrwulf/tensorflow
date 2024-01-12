@@ -281,3 +281,4 @@
 2023-12-20T02:25:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
 2023-12-20T20:56:00 - Minor doc updates: linking to article on quantization (tensorflow)
 2024-01-12T00:48:00 - Implementing approach from a new paper read last night (tensorflow)
+2024-01-12T04:42:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
