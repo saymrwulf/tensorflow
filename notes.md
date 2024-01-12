@@ -282,3 +282,4 @@
 2023-12-20T20:56:00 - Minor doc updates: linking to article on quantization (tensorflow)
 2024-01-12T00:48:00 - Implementing approach from a new paper read last night (tensorflow)
 2024-01-12T04:42:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
+2024-01-12T05:25:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
