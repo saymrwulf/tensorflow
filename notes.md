@@ -288,3 +288,4 @@
 2024-02-23T05:29:00 - Minor doc updates: linking to article on quantization (tensorflow)
 2024-02-23T19:49:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
 2024-01-14T06:10:00 - Late-night bugfix on financial RL environment (tensorflow)
+2024-01-14T06:22:00 - Minor doc updates: linking to article on quantization (tensorflow)
