@@ -286,3 +286,4 @@
 2024-02-23T03:39:00 - Refactor for clarity, might break a few tests though (tensorflow)
 2024-02-23T18:33:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
 2024-02-23T05:29:00 - Minor doc updates: linking to article on quantization (tensorflow)
+2024-02-23T19:49:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
