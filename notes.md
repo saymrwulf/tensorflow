@@ -285,3 +285,4 @@
 2024-01-12T05:25:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
 2024-02-23T03:39:00 - Refactor for clarity, might break a few tests though (tensorflow)
 2024-02-23T18:33:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
+2024-02-23T05:29:00 - Minor doc updates: linking to article on quantization (tensorflow)
