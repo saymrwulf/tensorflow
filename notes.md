@@ -295,3 +295,4 @@
 2024-05-11T05:32:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
 2024-06-08T20:09:00 - Late-night bugfix on financial RL environment (tensorflow)
 2024-06-08T17:34:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
+2024-06-08T20:30:00 - Minor doc updates: linking to article on quantization (tensorflow)
