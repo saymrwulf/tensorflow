@@ -300,3 +300,4 @@
 2024-06-17T04:47:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
 2024-06-17T00:44:00 - Quick fix, referencing a known issue from the official repo (tensorflow)
 2024-09-09T02:16:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
+2024-09-26T06:52:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
