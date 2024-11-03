@@ -313,3 +313,4 @@
 2024-10-28T01:02:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (tensorflow)
 2024-11-03T22:36:00 - Implementing approach from a new paper read last night (tensorflow)
 2024-11-03T20:38:00 - Late-night bugfix on financial RL environment (tensorflow)
+2024-11-03T03:16:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
