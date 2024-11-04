@@ -315,3 +315,4 @@
 2024-11-03T20:38:00 - Late-night bugfix on financial RL environment (tensorflow)
 2024-11-03T03:16:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (tensorflow)
 2024-11-04T04:50:00 - Minor doc updates: linking to article on quantization (tensorflow)
+2024-11-04T19:59:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (tensorflow)
